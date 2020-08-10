@@ -1,0 +1,15 @@
+name: wtm-archive-viz
+services:
+  app:
+    type: node
+    port: '8000'
+    build:
+      - yarn install
+tooling:
+  yarn:
+    service: app
+  gatsby:
+    service: app
+proxy:
+  app:
+    - wtm-archive-viz.lndo.site:8000
