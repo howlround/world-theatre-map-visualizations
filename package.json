@@ -1,10 +1,16 @@
 {
   "dependencies": {
+    "classnames": "^2.2.6",
+    "d3": "^5.16.0",
+    "d3-geo": "^1.12.1",
+    "d3-queue": "^3.0.7",
     "gatsby": "^2.24.37",
     "gatsby-cli": "^2.12.80",
     "gatsby-plugin-react-helmet": "^3.3.10",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "topojson": "^3.0.2"
   }
 }

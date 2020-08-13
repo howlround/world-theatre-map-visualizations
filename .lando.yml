@@ -10,6 +10,11 @@ tooling:
     service: app
   gatsby:
     service: app
+  gatsby-develop:
+    service: app
+    description: Run gatsby develop command with necessary host arg to work with lando
+    cmd:
+      - gatsby develop --host 0.0.0.0
 proxy:
   app:
     - wtm-archive-viz.lndo.site:8000

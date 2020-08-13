@@ -1,0 +1,421 @@
+[
+  {
+    "name": "A3Teatr",
+    "lat": "52.58766300000001",
+    "lon": "23.461825999999974",
+    "interests": [
+      "Circus",
+      "Contemporary",
+      "Eco Theatre",
+      "Experimental",
+      "International",
+      "Musical Theatre",
+      "Performance Art",
+      "Physical Theatre",
+      "Puppetry",
+      "Rural Theatre",
+      "Street Performance/Outdoor Theatre",
+      "Theatre for or by Women",
+      "Traditional / Folk",
+      "Young People / Children / Educational"
+    ],
+    "orgTypes": [
+      "Cultural / Sociocultural Service",
+      "Network / Association / Union",
+      "Performing Company / Ensemble",
+      "Producer / Presenter"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": "Policzna k Bielska Podl",
+    "administrativeArea": "podlaskie",
+    "country": "Poland",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/8nR62TTeb6gdzxo2j/A3Teatr Logo.jpg"
+  },
+  {
+    "name": "Accra[dot]Alt",
+    "lat": "5.5341312",
+    "lon": "-0.21391510000000835",
+    "interests": [
+      "African Diaspora",
+      "Climate Change",
+      "Contemporary",
+      "Dance / Movement / Choreography",
+      "Devised / Ensemble",
+      "Disability",
+      "Documentary",
+      "Eco Theatre",
+      "Experimental",
+      "Immersive",
+      "Improvisation",
+      "Indigenous",
+      "International",
+      "LGBTQIA*",
+      "Migration",
+      "Monologue / Solo Performance",
+      "Multidisciplinary / Interdisciplinary",
+      "New Technology",
+      "New Work",
+      "Performance Art",
+      "Physical Theatre",
+      "Puppetry",
+      "Rural Theatre",
+      "Senior Theatre",
+      "Site-specific",
+      "Theatre for or by Women",
+      "Traditional / Folk",
+      "Translations / Adaptations",
+      "Young People / Children / Educational",
+      "Political / Social Engagement"
+    ],
+    "orgTypes": [
+      "Cultural / Sociocultural Service",
+      "Development / Residency Organization",
+      "Festival",
+      "Network / Association / Union",
+      "Producer / Presenter",
+      "Venue"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": "Accra",
+    "administrativeArea": "Greater Accra Region",
+    "country": "Ghana",
+    "imageWide": null
+  },
+  {
+    "name": "Adriana (Adriana Gaviria)",
+    "lat": "37.09024",
+    "lon": "-95.71289100000001",
+    "interests": [
+      "African Diaspora",
+      "Arab Diaspora",
+      "Asian Diaspora",
+      "Circus",
+      "Classical",
+      "Climate Change",
+      "Contemporary",
+      "Dance / Movement / Choreography",
+      "Deaf",
+      "Devised / Ensemble",
+      "Disability",
+      "Documentary",
+      "Eco Theatre",
+      "Experimental",
+      "Immersive",
+      "Improvisation",
+      "Indigenous",
+      "International",
+      "Jewish Diaspora",
+      "LGBTQIA*",
+      "Migration",
+      "Monologue / Solo Performance",
+      "Multidisciplinary / Interdisciplinary",
+      "Musical Theatre",
+      "New Technology",
+      "New Work",
+      "Performance Art",
+      "Physical Theatre",
+      "Puppetry",
+      "Refugee",
+      "Senior Theatre",
+      "Site-specific",
+      "Theatre for or by Women",
+      "Traditional / Folk",
+      "Translations / Adaptations",
+      "Young People / Children / Educational",
+      "Political / Social Engagement",
+      "Latinx / Hispanic"
+    ],
+    "orgTypes": [],
+    "profileType": [
+      "Individual"
+    ],
+    "selfDefinedRoles": [
+      "Administrator, Manager, Producer",
+      "Curator / Programmer",
+      "Marketing / Communication",
+      "Performer"
+    ],
+    "locality": null,
+    "administrativeArea": null,
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/AGaviria Headshot2.jpg"
+  },
+  {
+    "name": "Afterculture Theatre",
+    "lat": "38.0405837",
+    "lon": "-84.50371640000003",
+    "interests": [
+      "Climate Change",
+      "Devised / Ensemble",
+      "Eco Theatre",
+      "Immersive",
+      "LGBTQIA*",
+      "Physical Theatre",
+      "Site-specific",
+      "Street Performance/Outdoor Theatre"
+    ],
+    "orgTypes": [
+      "Performing Company / Ensemble"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": "Lexington",
+    "administrativeArea": "Kentucky",
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/YzvZEwqweEojBqHCW/WHTD.jpg"
+  },
+  {
+    "name": "Agile Rascal Bycicle Touring Theatre",
+    "lat": "37.80686804116256",
+    "lon": "-122.2694206237793",
+    "interests": [
+      "Climate Change",
+      "Contemporary",
+      "Devised / Ensemble",
+      "Eco Theatre",
+      "Experimental",
+      "Immersive",
+      "Multidisciplinary / Interdisciplinary",
+      "New Work",
+      "Physical Theatre",
+      "Political / Social Engagement",
+      "Rural Theatre",
+      "Site-specific",
+      "Street Performance/Outdoor Theatre",
+      "Theatre for or by Women"
+    ],
+    "orgTypes": [
+      "Performing Company / Ensemble"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": null,
+    "administrativeArea": null,
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/tqkQwaYsNnTwdBioP/AAEAAQAAAAAAAAxfAAAAJDA0MDEwMGUzLWIzY2UtNGZlNS1iYTFjLTlkOTEwNTFjMmE5YQ.jpg"
+  },
+  {
+    "name": "Alexandra Bonifield",
+    "lat": "32.7766642",
+    "lon": "-96.79698789999998",
+    "interests": [
+      "Burlesque / Cabaret",
+      "Classical",
+      "Climate Change",
+      "Contemporary",
+      "Eco Theatre",
+      "Experimental",
+      "Immersive",
+      "International",
+      "LGBTQIA*",
+      "Monologue / Solo Performance",
+      "Multidisciplinary / Interdisciplinary",
+      "New Work",
+      "Opera",
+      "Performance Art",
+      "Physical Theatre",
+      "Theatre for or by Women",
+      "Political / Social Engagement",
+      "Latinx / Hispanic"
+    ],
+    "orgTypes": [],
+    "profileType": [
+      "Individual"
+    ],
+    "selfDefinedRoles": [
+      "Administrator, Manager, Producer",
+      "Director",
+      "Educator / Scholar",
+      "Journalist / Critic"
+    ],
+    "locality": "Dallas",
+    "administrativeArea": "Texas",
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/New.Me.jpg"
+  },
+  {
+    "name": "Alice Ferguson Foundation's Arts in the Woods at Hard Bargain Amphitheater",
+    "lat": "38.68654822843642",
+    "lon": "-77.04244136810303",
+    "interests": [
+      "Climate Change",
+      "Contemporary",
+      "Devised / Ensemble",
+      "Documentary",
+      "Eco Theatre",
+      "Immersive",
+      "Improvisation",
+      "Monologue / Solo Performance",
+      "Musical Theatre",
+      "New Work",
+      "Performance Art",
+      "Physical Theatre",
+      "Puppetry",
+      "Site-specific",
+      "Street Performance/Outdoor Theatre",
+      "Theatre for or by Women",
+      "Traditional / Folk",
+      "Young People / Children / Educational"
+    ],
+    "orgTypes": [
+      "Other",
+      "Performing Company / Ensemble",
+      "Venue"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": null,
+    "administrativeArea": null,
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/mQzhLJof5gBtRPsgx/2018_Night Theater_21.JPG"
+  },
+  {
+    "name": "Al Madina Theatre ",
+    "lat": "33.89661960000001",
+    "lon": "35.482300699999996",
+    "interests": [
+      "African Diaspora",
+      "Arab Diaspora",
+      "Asian Diaspora",
+      "Burlesque / Cabaret",
+      "Circus",
+      "Classical",
+      "Climate Change",
+      "Contemporary",
+      "Dance / Movement / Choreography",
+      "Deaf",
+      "Devised / Ensemble",
+      "Disability",
+      "Documentary",
+      "Eco Theatre",
+      "Immersive",
+      "Improvisation",
+      "International",
+      "Migration",
+      "Multidisciplinary / Interdisciplinary",
+      "Musical Theatre",
+      "New Work",
+      "Opera",
+      "Performance Art",
+      "Physical Theatre",
+      "Puppetry",
+      "Refugee",
+      "Site-specific",
+      "Theatre for or by Women",
+      "Translations / Adaptations",
+      "Young People / Children / Educational",
+      "Political / Social Engagement"
+    ],
+    "orgTypes": [
+      "Venue"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": "Beirut",
+    "administrativeArea": null,
+    "country": "Lebanon",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/Screen Shot 2017-06-06 at 9.21.29 PM.png"
+  },
+  {
+    "name": "American Repertory Theater",
+    "lat": "42.374899",
+    "lon": "-71.122630",
+    "interests": [
+      "African Diaspora",
+      "Burlesque / Cabaret",
+      "Circus",
+      "Classical",
+      "Contemporary",
+      "Dance / Movement / Choreography",
+      "Devised / Ensemble",
+      "Eco Theatre",
+      "Experimental",
+      "Immersive",
+      "International",
+      "LGBTQIA*",
+      "Monologue / Solo Performance",
+      "Multidisciplinary / Interdisciplinary",
+      "Musical Theatre",
+      "New Work",
+      "Physical Theatre",
+      "Theatre for or by Women",
+      "Translations / Adaptations",
+      "Young People / Children / Educational",
+      "Political / Social Engagement"
+    ],
+    "orgTypes": [
+      "Development / Residency Organization",
+      "Producer / Presenter",
+      "School / University / Training Organization",
+      "Venue"
+    ],
+    "profileType": [
+      "Organization"
+    ],
+    "selfDefinedRoles": [],
+    "locality": "Cambridge",
+    "administrativeArea": "Massachusetts",
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/nePz9C5q_400x400.jpg"
+  },
+  {
+    "name": "Ana Candida Carneiro",
+    "lat": "42.3600825",
+    "lon": "-71.05888010000001",
+    "interests": [
+      "Climate Change",
+      "Contemporary",
+      "Dance / Movement / Choreography",
+      "Devised / Ensemble",
+      "Disability",
+      "Experimental",
+      "Immersive",
+      "Indigenous",
+      "Latinx / Hispanic",
+      "Migration",
+      "Multidisciplinary / Interdisciplinary",
+      "New Technology",
+      "New Work",
+      "Peacebuilding / Conflict Transformation",
+      "Performance Art",
+      "Political / Social Engagement",
+      "Refugee",
+      "Religion / Spirituality",
+      "Site-specific",
+      "Street Performance/Outdoor Theatre",
+      "Theatre for or by Women",
+      "Translations / Adaptations",
+      "Young People / Children / Educational"
+    ],
+    "orgTypes": [],
+    "profileType": [
+      "Individual"
+    ],
+    "selfDefinedRoles": [
+      "Curator / Programmer",
+      "Director",
+      "Dramaturg",
+      "Educator / Scholar",
+      "Playwright",
+      "Translator"
+    ],
+    "locality": "Boston",
+    "administrativeArea": "Massachusetts",
+    "country": "United States",
+    "imageWide": "https://wtm-dev-images-resized.s3.amazonaws.com/YbBnFQhxJJ2Wrp5qt/ANA.jpg"
+  }
+]
