@@ -6,7 +6,10 @@ import items from "../data/climate.json";
 export default () => {
   return (
     <div>
-      <VisualizationPage items={items}/>
+      <VisualizationPage
+        items={items}
+        title="301 Profiles interested in Climate Change or Eco Theatre"
+      />
     </div>
   );
 }
