@@ -7,6 +7,7 @@ import "./VisualizationPage.css";
 // Components
 import Footer from "../components/Footer";
 import ProfilesGlobe from "../components/ProfilesGlobe";
+import SunsetBlogPost from "../components/SunsetBlogPost";
 
 export default function VisualizationPage({ items, title }) {
   // const siteName = 'World Theatre Map';
@@ -47,6 +48,9 @@ export default function VisualizationPage({ items, title }) {
               <ProfilesGlobe
                 items={items}
               />
+            </section>
+            <section>
+              <SunsetBlogPost />
             </section>
           </div>
         </div>

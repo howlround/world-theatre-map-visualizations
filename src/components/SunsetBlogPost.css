@@ -1,0 +1,9 @@
+.post-text {
+  max-width: 745px;
+  margin: auto;
+  margin-top: 60px;
+}
+
+.post-text h3 {
+  margin-bottom: 10px;
+}
