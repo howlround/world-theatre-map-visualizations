@@ -12,7 +12,7 @@ export default function Footer() {
             A project of <a href="http://howlround.com">HowlRound</a>
           </div>
           <div className="footer-github footer-meta">
-            Open source <a href="https://github.com/howlround/worldtheatremap" target="_blank" rel="noreferrer">codebase</a> and <a href="https://github.com/howlround/worldtheatremap_api" target="_blank" rel="noreferrer">API</a> on GitHub
+            Open source <a href="https://github.com/howlround/worldtheatremap" target="_blank" rel="noreferrer">codebase</a> and <a href="https://github.com/howlround/wtm_data_archive" target="_blank" rel="noreferrer">data</a> on GitHub
           </div>
         </div>
         <div className="footer-block">
