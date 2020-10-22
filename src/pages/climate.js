@@ -9,6 +9,8 @@ export default () => {
       <VisualizationPage
         items={items}
         title="301 Profiles interested in Climate Change or Eco Theatre"
+        prev="/african-diaspora"
+        next="/deaf"
       />
     </div>
   );

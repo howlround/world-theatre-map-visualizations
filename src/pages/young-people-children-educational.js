@@ -9,6 +9,8 @@ export default () => {
       <VisualizationPage
         items={items}
         title="1034 Young People / Children / Educational"
+        prev="/roma-diaspora"
+        next="/african-diaspora"
       />
     </div>
   );

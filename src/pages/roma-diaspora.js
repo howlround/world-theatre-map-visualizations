@@ -9,6 +9,8 @@ export default () => {
       <VisualizationPage
         items={items}
         title="51 Profiles interested in Roma Diaspora"
+        prev="/peacebuilding-conflict-transformation"
+        next="/young-people-children-educational"
       />
     </div>
   );

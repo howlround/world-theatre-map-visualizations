@@ -9,6 +9,8 @@ export default () => {
       <VisualizationPage
         items={items}
         title="580 Profiles interested in LGBTQIA*"
+        prev="/indigenous"
+        next="/peacebuilding-conflict-transformation"
       />
     </div>
   );

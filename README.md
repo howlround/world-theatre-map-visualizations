@@ -1,1 +1,2 @@
-- Start development server: `lando gatsby develop --host 0.0.0.0`
+- Start development server: `lando yarn run dev`
+- Deploy: `lando yarn run deploy`

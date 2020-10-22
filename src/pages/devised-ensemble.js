@@ -9,6 +9,8 @@ export default () => {
       <VisualizationPage
         items={items}
         title="1053 Profiles interested in Devised / Ensemble"
+        prev="/deaf"
+        next="/disability"
       />
     </div>
   );
