@@ -1282,14 +1282,14 @@ th {
     background-color: #ffffff;
     border: solid 1px #dbdbdb;
     padding: 10px 40px;
-    color: #FFEC33;
+    color: #7EFFDB;
     font-size: 20px; }
     @media (min-width: 740px) {
       .homepage-globe-label h2, .homepage-globe-label .homepage-search-links {
         background-color: transparent;
         border: none; }
         .homepage-globe-label h2 span, .homepage-globe-label .homepage-search-links span {
-          background-color: #FFEC33;
+          background-color: #7EFFDB;
           padding: 14px 100px;
           display: inline-block;
           width: 580px; } }
@@ -1624,8 +1624,8 @@ ul.search-results {
   font-size: 12px;
   text-align: center;
   padding: 10px;
-  color: #6d6d6d;
-  background-color: #e8e6e1;
+  color: #000;
+  background-color: #FFEC33;
   position: relative; }
   @media (min-width: 740px) {
     .announcement {
