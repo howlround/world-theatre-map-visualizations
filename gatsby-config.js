@@ -1,5 +1,10 @@
 module.exports = {
-  pathPrefix: "/world-theatre-map-visualizations",
+  siteMetadata: {
+    title: `World Theatre Map`,
+    description: ``,
+    author: `HowlRound`,
+    siteUrl: `https://worldtheatremap.com`
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {

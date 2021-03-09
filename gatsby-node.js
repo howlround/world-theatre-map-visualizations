@@ -3,7 +3,7 @@ exports.createPages = ({ actions }) => {
 
   createRedirect({
     fromPath: `/`,
-    toPath: `/climate`,
+    toPath: `/african-diaspora`,
     redirectInBrowser: true,
     isPermanent: true,
   })
