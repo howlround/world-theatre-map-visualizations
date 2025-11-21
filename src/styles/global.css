@@ -2249,25 +2249,6 @@ a.howlround-footer-logo, .search-results-pager span.howlround-footer-logo {
     a.howlround-footer-logo, .search-results-pager span.howlround-footer-logo {
       margin: 0 0 10px 5px; } }
 
-a.emerson-footer-logo, .search-results-pager span.emerson-footer-logo {
-  width: 165px;
-  height: 70px;
-  background-size: 267px auto;
-  background-position: -20px;
-  background-image: url("../static/Emerson-PrimaryLogo-Reversed-Grayscale-400px.png");
-  margin: auto;
-  pointer: cursor;
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  word-wrap: normal;
-  background-repeat: no-repeat;
-  display: block;
-  border-bottom: none; }
-  @media (min-width: 740px) {
-    a.emerson-footer-logo, .search-results-pager span.emerson-footer-logo {
-      margin: 0 0 10px 0; } }
-
 #globe {
   margin: auto;
   max-width: 100%; }

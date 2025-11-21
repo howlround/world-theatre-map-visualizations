@@ -28,9 +28,6 @@ export default function Footer() {
               <a className="facebook" href="http://facebook.com/HowlRound">Facebook</a>
             </li>
             <li>
-              <a className="twitter" href="http://twitter.com/HowlRound">Twitter</a>
-            </li>
-            <li>
               <a className="instagram" href="http://instagram.com/howlround">Instagram</a>
             </li>
           </ul>
@@ -39,9 +36,6 @@ export default function Footer() {
           <ul>
             <li>
               <a className="howlround-footer-logo" href="http://howlround.com">HowlRound</a>
-            </li>
-            <li>
-              <a className="emerson-footer-logo" href="http://emerson.edu">Emerson College</a>
             </li>
           </ul>
         </div>
